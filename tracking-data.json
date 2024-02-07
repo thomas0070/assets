@@ -1,21 +1,52 @@
 {
     "wallets": [
         {
-            "groupName": "Volume bots",
+            "groupName": "Presale",
             "wls": [
-                "8pEmjdYwZkHxppp1WZquhG6RPyjjg3ZzWaUrFYgwK8YJ",
-                "9JFjzFvUwTBPiUJ1cSq4hPBKzWyKUNAVaV9nDkZHzguE",
-                "GC3B1Zvpm9j7kBMykpoqxUJ3atuzK152UH5sQJ318WSp"
-            ]
-        },
-        {
-            "groupName": "Volume bots2",
-            "wls": [
-                "9JFjzFvUwTBPiUJ1cSq4hPBKzWyKUNAVaV9nDkZHzguE",
-                "GC3B1Zvpm9j7kBMykpoqxUJ3atuzK152UH5sQJ318WSp"
+                "GLw4VqkwTEFteu5vuk97GWFrPahmZYXEBPK1Eeem4Dbm",
+                "G8oxibYJawSEBiWagANz1tNDhz4BY2QAocW9yqHonDno",
+                "AH5GZd98ztMnUeY2ibx3GqV9xa8e4W7uRzpqxQBXqV2g",
+                "49Eh6Beer7Zmmbr8YR5itcAgaJKGxw5CmnLBAjjttmHK",
+                "8Azrzsmi87LumkkEo1q28weYu6bqgwjhHKWtR4iyfgyu",
+                "ExZnjQHm9FfLMUsLPFqGWBo7iqonXbVES1qyQUkQycCf",
+                "6nnfD2oDYFapAeAE7NaNNfcdFZq9mqbM1MEjS3R5NqAc",
+                "GBBWMVv9uhe5od3DYCaoZHZ4GVpPW9gkAq3QmYqmWD7N",
+                "BmJv26229S63QPx49jp3qXhpPnnbdFkGHHxtthHUV4Cz",
+                "EaZDKcqyzdWZGQcq9ArnhBND713LkRRVijKdeZWgFzPc",
+                "AjF7Cby4WwFcWaBR2oVgMBXBy6jUrjNPLxHRK4jnWEF8",
+                "GgMiLkvCSnV8LxrmdjJvFsmfms5GdqRr7jKTv5Kyne5H",
+                "7uu4w33q47A8oVHuPmaQtuhnSNjjT52va8dRJCbmrqYx",
+                "3zcMpgRZKZzysTJ5erhzg7RRbxBcLEKxgsXE4o4e8onz",
+                "GsALe1xc9cCyEGjgXpSfVjcGgtJdtsH8Pg31JCNRUns5",
+                "6s3RbcVRLSW8YAp4U9hGNb16v91YpzLmTiYL6DtQAjBD",
+                "763ieXTbvArVf4zo1epNqvH2VUA6VZMh63QAWgJfo7ff",
+                "6kLXLbHt3jJPh6eMqAoj8Mb4RK15CtqFuuA6f3Nms4uS",
+                "9cvMLBsCfVCpgZsriTbu1T2LViXRX2ERfTqy5psP6R6X",
+                "FjMUYnXendQTVoVh85pGWpv5yxrr8h4b4i5puYmZYUTA",
+                "GLC6w9gud93rW7XhFU2QH2eS9Z1qtu8umSXK7BwuA8oe",
+                "ETxcZYtTfrffzBSwtD1q9GYNwTgL8nNWUsRu8FZrua8Z",
+                "41nvuFbyXoYvkipR89m3X9fMJDqKaHH6qH3jT72unp3H",
+                "HnKM5KfXX862dTpJ4nrYRNPsn37hP84e9xesVYNKhhmu",
+                "vJpy9DAveS2u4WtgrtPGdWvibx2CpvBhUJVp5nF4Atn",
+                "DUkp88URzxQ67k8B5eUs9dHHNUoRETD1o7uEbVuGPPUc",
+                "7epc1nouXEuQHfRFKUFYtaweT6a486y6Dx2ZQKz7ZZBD",
+                "EFa2wcFUmPdZehSaRXsU1DiLmQaw6GDi6Gg1eoXZ4dkS",
+                "7LeL7DGeWwXpeuoLn9s4s7aSAAjVQDDT5kZWc2iy6gBg",
+                "4AhPnwfyANK2U7RidbZGbLuce4k9bYbFP5znFLp7csZx",
+                "5ZMgTK9moYbdWk6R4TJC7K1BqQyLj8Yo5T2UNvB3msVY",
+                "387dQJSAQQYLKbRdnykUgzQKR6EWf1Wx3ifuPq9rLdgP",
+                "EM3WWYZZqUkqUjg1Frza1jpz5XrQ6waUxkszVsrii5dF",
+                "6KAp52muhcJurZVYchdA1EDTyfATY5AizoCJn1ebkFed",
+                "Bac23MZti423RG8sqW1wrtwCJxRVDDWoZpuNm1TSh85d",
+                "EybiqWa3j1hr9jS6Cz53DKKhQ7KyRXtbyCcRMQikWJcF",
+                "CS7tjYC45c6BdRJX2ySuZUNtEb2P1r2Yyjgez25CVKHV",
+                "HHUqLWyRMuz231YofgXeV82SkW48BLduFhvAAh3R8N4q",
+                "4wpKRZpecgkoZMUUs6iDRMETwhrWqW79rUjxxdoaXTjG",
+                "2aAHrfotnDbraTFErzAuqeVM665YVLxrvNmg1PnNp47F",
+                "8yyqnEoxix8JuaDFjWp3pH8ESXAuqiLqJfaFgr5SrttG"
             ]
         }
     ],
-    "token": "AwRErBEFGTnohzfLeRSBH9HddQEy2oeRxnWLrbvFFh95",
-    "tokenDecimal": 6
+    "token": "4QhZqBqBnQuAapohWoizBQktXcXcF4bJrH1Rnc9tYmtX",
+    "tokenDecimal": 8
 }
