@@ -1,0 +1,20 @@
+{
+    "wallets": [
+        {
+            "groupName": "Volume bots",
+            "wls": [
+                "8pEmjdYwZkHxppp1WZquhG6RPyjjg3ZzWaUrFYgwK8YJ",
+                "9JFjzFvUwTBPiUJ1cSq4hPBKzWyKUNAVaV9nDkZHzguE",
+                "GC3B1Zvpm9j7kBMykpoqxUJ3atuzK152UH5sQJ318WSp"
+            ]
+        },
+        {
+            "groupName": "Volume bots2",
+            "wls": [
+                "9JFjzFvUwTBPiUJ1cSq4hPBKzWyKUNAVaV9nDkZHzguE",
+                "GC3B1Zvpm9j7kBMykpoqxUJ3atuzK152UH5sQJ318WSp"
+            ]
+        }
+    ],
+    "token": "AwRErBEFGTnohzfLeRSBH9HddQEy2oeRxnWLrbvFFh95"
+}
